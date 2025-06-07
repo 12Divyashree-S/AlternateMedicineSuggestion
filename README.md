@@ -22,3 +22,13 @@ A smart ML-powered Streamlit web app that suggests the safest and most similar *
 | Frontend      | Streamlit                   |
 | Deployment    | Streamlit Cloud             |
 
+
+ 🚀 How to Run
+
+```bash
+git clone https://github.com/YourUsername/alternate-medicine-app
+cd alternate-medicine-app
+pip install -r requirements.txt
+streamlit run app.py
+
+
